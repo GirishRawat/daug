@@ -11,9 +11,9 @@ import { Font, LinearGradient } from 'expo';
 
 // import IntroSlider from '../components/IntroSlider';
 import LoginScreen from './LoginScreen';
-// import SignupScreen from './SignupScreen';
-// import ProfileScreen from './ProfileScreen';
-// import SocialFeedScreen from './SocialFeedScreen';
+import SignupScreen from './SignupScreen';
+import ProfileScreen from './ProfileScreen';
+import SocialFeedScreen from './SocialFeedScreen';
 import LOGO from '../../assets/daug_logo.png';
 
 export default class IntroScreen extends React.Component {
@@ -35,11 +35,11 @@ export default class IntroScreen extends React.Component {
     if (screen == 'login') {
       return <LoginScreen />
     } else if (screen === 'signup') {
-      // return <SignupScreen />
+      return <SignupScreen />
     } else if (screen === 'profile') {
-      // return <ProfileScreen />
+      return <ProfileScreen />
     } else if (screen === 'social') {
-      // return <SocialFeedScreen />
+      return <SocialFeedScreen />
     } else {
       return (
         <View style={styles.mainContent}>

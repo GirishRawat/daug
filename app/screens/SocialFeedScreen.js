@@ -46,7 +46,7 @@ export default class SocialFeedScreen extends React.Component {
             borderRadius: 20,
           }}
         />
-         {this.state.fontLoaded &&
+         
         <View style={styles.nameLocationContainer}>
          <TouchableOpacity style = {styles.nameContainer}
            onPress={this.renderProfile} 
@@ -55,7 +55,7 @@ export default class SocialFeedScreen extends React.Component {
          </TouchableOpacity> 
           <Text style={styles.nameAndLocationContainer}> {item.location} </Text>
         </View>
-         }
+         
       </View>
         
 

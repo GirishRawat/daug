@@ -138,7 +138,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: '#4CAF50',
     padding: 10,
-    borderRadius: 5,
+    borderRadius: 50,
     marginTop: 40,
     height: 50,
     width: 200,
@@ -151,11 +151,12 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginVertical: 20
   },
+
   textInput: {
     height: 50,
     width: 300,
     borderRadius: 53,
-    borderWidth: 1,
+
     borderColor: 'white',
     marginVertical: 10,
   },
