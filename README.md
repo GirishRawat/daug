@@ -4,28 +4,29 @@
 </a>
 </p>
 
-<h3 align="center">
-Daug mobile app
-</h3>
-
 <p align="center">
+<h3>
 Daug is a social network for pets.
+</h3>
 </p>
 
-### [Demo - Try it on Expo](https://exp.host/@jkhusanov/daug-mobile)
+<p align="center">
+[Demo - Try it on Expo](https://exp.host/@jkhusanov/daug-mobile)
+</p>
 
 ## What's Daug?
 
 **Daug is a social network for pets.**
 
-- Your pets can **sign up or login** using their paws.
-- They can **upload selfies** or **post their thoughts** for other pets to see.
-- They can also look at **other pets posts** and either **paw** (like) or just dislike it.
+- You can login and sign up for your pets.
+- You can **upload selfies** or **post their thoughts** for other pets to see.
+- You can also look at **other pets posts** and **paw** (like) it.
 
-### Demo and some screenshots
+## Demo
 
 ![daug_demo](https://github.com/jkhusanov/daug-mobile/blob/master/screenshots/demo-app-final.gif)
 
+## Screenshots
 
 <div style={{display: flex; flex-direction: row}}>
 <img src="screenshots/final/intro.png" width="270" />
@@ -44,16 +45,17 @@ Daug is a social network for pets.
 </div>
 
 ## User Stories
-- Daug is a fully functioning Social Network app
-- Users can Sign up & Log into the app
-- Users can create a new Posts
-- Users can like and comments on Posts
-- Users can follow each other
 
-
-Used React Native Camera library to let the users take pictures while creating posts or upload a new profile picture. Also used React Native Elements library to build UI, React Navigation library to handle navigation, and packages such as react-native-modal and react-native-keyboard-aware-scroll-view to improve UI. 
+Daug uses React Native Camera library to let the users take pictures while creating posts or upload a new profile picture. It also uses React Native Elements library for the UI, React Navigation library to handle navigation, and packages such as react-native-modal and react-native-keyboard-aware-scroll-view to improve UI. 
 
 Would like to implement Redux in the future to better manage the state. Also would like to add themeing to the app to enable light/dark modes, and overall make the app more dynamic and functional.
+
+- Users can sign up 
+- Users can log in
+- Users can create new posts
+- Users can like posts
+- Users can comment on posts
+- Users can follow each other
 
 ## Getting started
 
@@ -65,11 +67,7 @@ exp start
 exp ios
 ```
 
-
-## Milestones
-
-Below you can see my main milestones and how I achieved them
-
+# Milestones
 
 ## Milestone #1
 
