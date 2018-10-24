@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-<h3>
-Daug is a social network for pets.
-</h3>
-</p>
 
-<p align="center">
+Daug is a social network for pets.
 [Demo - Try it on Expo](https://exp.host/@jkhusanov/daug-mobile)
 </p>
+
+
+
+
 
 ## What's Daug?
 
