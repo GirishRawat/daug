@@ -5,13 +5,8 @@
 </p>
 
 <p align="center">
-
 Daug is a social network for pets.
-[Demo - Try it on Expo](https://exp.host/@jkhusanov/daug-mobile)
 </p>
-
-
-
 
 
 ## What's Daug?
@@ -23,6 +18,7 @@ Daug is a social network for pets.
 - You can also look at **other pets posts** and **paw** (like) it.
 
 ## Demo
+[Demo - Try it on Expo](https://exp.host/@jkhusanov/daug-mobile)
 
 ![daug_demo](https://github.com/jkhusanov/daug-mobile/blob/master/screenshots/demo-app-final.gif)
 
